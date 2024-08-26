@@ -42,7 +42,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <iconUrl>https://rawcdn.githack.com/openrails/openrails.org/835eb8585e286960f892c46701b2e8abdf1871dd/assets/logos/or_logo.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
-    <licenseUrl>https://github.com/openrails/openrails/blob/main/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/openrails/openrails/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/openrails/openrails</projectSourceUrl>
     <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
